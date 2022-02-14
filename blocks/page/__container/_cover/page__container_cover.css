@@ -1,4 +1,4 @@
-.cover__container {
+.page__container_cover {
   max-width: 1184px;
   width: 100%;
   margin: 0 auto 92px;
@@ -7,20 +7,20 @@
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .cover__container {
+  .page__container_cover {
     max-width: 1024px;
   }
 }
 
 @media screen and (min-width: 767px) and (max-width: 1023px) {
-  .cover__container {
+  .page__container_cover {
     max-width: 768px;
     margin: 0 auto 88px;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 766px) {
-  .cover__container {
+  .page__container_cover {
     max-width: 320px;
     margin: 0 auto 64px;
   }
