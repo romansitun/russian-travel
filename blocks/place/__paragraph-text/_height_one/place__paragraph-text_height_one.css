@@ -1,0 +1,5 @@
+@media screen and (min-width: 320px) and (max-width: 766px) {
+  .place__paragraph-text_height_one {
+    min-height: 312px;
+  }
+}
