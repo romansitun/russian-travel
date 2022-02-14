@@ -28,5 +28,6 @@
     min-height: 310px;
     flex-direction: column;
     padding: 0;
+    gap: 48px;
   }
 }
