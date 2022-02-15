@@ -10,7 +10,7 @@
   text-decoration: none;
   width: 1184px;
   height: 740px;
-  cursor: url(../../../images/Pointer.png), pointer;
+  cursor: url("../../../images/Pointer.png"), pointer;
   background-image: url("../../../images/cover-trains.jpg");
   background-position: center;
   background-size: cover;
@@ -51,7 +51,7 @@
 }
 
 @media screen and (min-width: 320px) and (max-width: 766px) {
-  .cover {
+  .cover__link {
     width: 320px;
     height: 200px;
   }

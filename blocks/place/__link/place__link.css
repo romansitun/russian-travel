@@ -1,6 +1,5 @@
 .place__link {
   max-width: 456px;
-  min-height: 22px;
   font-family: Inter, "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -26,13 +25,11 @@
 @media screen and (min-width: 767px) and (max-width: 1023px) {
   .place__link {
     max-width: 352px;
-    min-height: 22px;
   }
 }
 
 @media screen and (min-width: 320px) and (max-width: 766px) {
   .place__link {
     max-width: 288px;
-    min-height: 22px;
   }
 }
